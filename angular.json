@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "tailwindcss-fun": "apps/tailwindcss-fun",
+    "tailwindcss-fun-e2e": "apps/tailwindcss-fun-e2e"
+  }
+}
