@@ -13,12 +13,11 @@
         "main": "apps/tailwindcss-fun/src/main.ts",
         "polyfills": "apps/tailwindcss-fun/src/polyfills.ts",
         "tsConfig": "apps/tailwindcss-fun/tsconfig.app.json",
-        "inlineStyleLanguage": "scss",
         "assets": [
           "apps/tailwindcss-fun/src/favicon.ico",
           "apps/tailwindcss-fun/src/assets"
         ],
-        "styles": ["apps/tailwindcss-fun/src/styles.scss"],
+        "styles": ["apps/tailwindcss-fun/src/styles.css"],
         "scripts": []
       },
       "configurations": {
